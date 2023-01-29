@@ -1,5 +1,4 @@
 #include "main.h"
-#include "main.c"
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a string
