@@ -1,3 +1,5 @@
 # printf
 alx 
-vincent otis & Maryann wambui group project
+vincent otis 
+Maryann wambui
+group project
