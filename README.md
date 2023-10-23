@@ -1,4 +1,4 @@
-#PRINTF
+# PRINTF
 
 
 <hr>
@@ -6,7 +6,7 @@
 
 
 
-#AUTHORS
+# AUTHORS
 
 vincent otis 
 Maryann wambui
