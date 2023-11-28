@@ -1,7 +1,6 @@
 # PRINTF
 
 
-<hr>
 # alx prinf group project
 
 
