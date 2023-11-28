@@ -1,7 +1,4 @@
-# PRINTF
 
-
-# alx prinf group project
 
 
 
