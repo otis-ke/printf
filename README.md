@@ -3,5 +3,3 @@
 
 
 # AUTHORS
-
-vincent otis 
