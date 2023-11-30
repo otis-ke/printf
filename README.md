@@ -1,4 +1,4 @@
-fd# PrintF Project
+# PrintF Project
 
 ## Overview
 
