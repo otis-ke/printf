@@ -1,4 +1,4 @@
-# PrintF Project
+# Printf Project
 
 ## Overview
 
