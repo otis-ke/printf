@@ -2,9 +2,6 @@
 
 ## Overview
 
-kfkgk
-jfjfjdi
-in anjfc
 The PrintF project is a collaborative effort by Vincent Otis and Mary Ann Mweru Wambui, developed as part of the ALX program. The project aims to create a custom printf function in C programming language, implementing core functionalities similar to the standard printf function.
 
 ## Features 
