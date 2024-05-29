@@ -18,5 +18,5 @@ The PrintF project is a collaborative effort by Vincent Otis and Mary Ann Mweru 
 To compile the code, navigate to the project directory and use the following command:
 
 ```bash
-gcc -Wall -Werror -Wextra -pedantic *.c -o printf
+gcc -Wall -Werror -Wextra -pedantic *.c -o printf. 
 
