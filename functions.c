@@ -3,7 +3,7 @@
 * print_char - print a char
 * @types: list of arguments
 * @buffer: buffer to an array
-* @flags: calculates active flags
+* @flags: calculates active flags .
 * @width: the width
 * @precision: precision specification
 * @size: size specifier
