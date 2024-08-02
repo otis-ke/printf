@@ -6,7 +6,7 @@
 * @flags: calculates active flags .
 * @width: the width.
 * @precision: precision specification
-* @size: size specifier
+* @size: size specifier.
 * Return: number of characters printed.
 */
 int print_char(va_list types, char buffer[], int flags, int width, int precision, int size)
